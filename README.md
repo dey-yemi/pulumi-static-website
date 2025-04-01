@@ -1,4 +1,4 @@
-**# Fast Static Website Deployment with Pulumi**
+# **Fast Static Website Deployment with Pulumi**
 
 Pulumi is a powerful Infrastructure as Code (IaC) platform that automates, secures, and manages cloud resources using familiar programming languages. This project demonstrates how to deploy a static website on **AWS** using **Pulumi** with **Python**.
 
